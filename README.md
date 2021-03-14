@@ -29,7 +29,7 @@ print(get_high(api_key, 'USD', 'BAT'))
 print(get_market_cap(api_key, 'BAT'))
 
 ```
-##Note
+## Note
 If you use the free version of the api you need to make some cooldowns between your requests because otherwise you get an error.
 get_logo doesn't work yet i'm working on a solution.
 ## License
