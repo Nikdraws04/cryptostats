@@ -17,7 +17,7 @@ from cryptostats import get_name, get_price, get_rank, get_market_cap, get_circu
 
 
 
-api_key = "633ab0fcf7149070dbee06cbe0648171"
+api_key = "YOUR API KEY HERE"
 
 
 
