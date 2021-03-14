@@ -4,7 +4,7 @@ Cryptostats is a unofficial api wrapper for the nomics api to get current crypto
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install cryptostats.
 
 ```bash
 pip install cryptostats
