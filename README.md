@@ -1,6 +1,6 @@
 # Cryptostats
 
-Cryptostats is a unofficial api wrapper for the nomics api to get current crypto stats.
+Cryptostats is an unofficial api wrapper for the nomics api to get current crypto stats.
 
 ## Installation
 
